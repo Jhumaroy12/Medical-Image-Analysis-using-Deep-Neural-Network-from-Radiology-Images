@@ -1,0 +1,6 @@
+python
+tensorflow / keras
+opencv-python
+DNN
+CNN
+ML
